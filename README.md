@@ -17,7 +17,7 @@ The repository is organized around the five projects listed in the Oasis Infobyt
 | 1 | Iris Flower Classification | Exploratory data analysis and classification of iris species | [DataScience-Task1-IrisClassification](./DataScience-Task1-IrisClassification/) |
 | 2 | Unemployment Analysis with Python | Regional and time-based unemployment trends in India | [DataScience-Task2-UnemploymentAnalysis](./DataScience-Task2-UnemploymentAnalysis/) |
 | 3 | Car Price Prediction | Data preparation, regression models, and model evaluation | [DataScience-Task3-CarPricePrediction](./DataScience-Task3-CarPricePrediction/) |
-| 4 | Email Spam Detection | Text preprocessing, TF-IDF, and spam classification | [DataScience_Task4_EmailSpamDetection](./DataScience_Task4_EmailSpamDetection/) |
+| 4 | Email Spam Detection | Text preprocessing, TF-IDF, and spam classification | [DataScience-Task4-EmailSpamDetection](./DataScience-Task4-EmailSpamDetection/) |
 | 5 | Sales Prediction Using Python | Advertising data analysis and sales regression | [DataScience-Task5-SalesPrediction](./DataScience-Task5-SalesPrediction/) |
 
 > **Note:** Task folder links should match the folder names in the repository exactly. If a folder is renamed, update its link here as well.
@@ -44,7 +44,7 @@ OIBSIP/
 ├── DataScience-Task1-IrisClassification/
 ├── DataScience-Task2-UnemploymentAnalysis/
 ├── DataScience-Task3-CarPricePrediction/
-├── DataScience_Task4_EmailSpamDetection/
+├── DataScience-Task4-EmailSpamDetection/
 └── DataScience-Task5-SalesPrediction/
 ```
 
